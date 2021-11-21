@@ -1,0 +1,13 @@
+<<<<<<< HEAD
+mango 
+apple pickele
+
+rerging
+||||||| db19870
+=======
+mango
+picking
+12345
+3564
+
+>>>>>>> feature2
