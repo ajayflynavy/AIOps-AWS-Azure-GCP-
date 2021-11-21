@@ -46,7 +46,7 @@ def math_operation_via_postman():
             r = num1 / num2
             result = 'the quotient when ' + str(num1) + ' is divided by ' + str(num2) + ' is ' + str(r)
         return jsonify(result)
-
+# class for the flask
 
 if __name__ == '__main__':
     app.run(host="127.0.0.1", port=8080,debug=True)
